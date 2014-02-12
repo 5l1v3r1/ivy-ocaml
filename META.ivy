@@ -1,0 +1,4 @@
+version="1.2"
+description="bindings for the Ivy software bus"
+archive(byte)="ivy-ocaml.cma"
+archive(native)="ivy-ocaml.cmxa"

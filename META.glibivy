@@ -1,0 +1,4 @@
+version="1.2"
+description="bindings for the Ivy software bus with glib mainloop"
+archive(byte)="glibivy-ocaml.cma"
+archive(native)="glibivy-ocaml.cmxa"
